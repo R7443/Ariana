@@ -1,0 +1,61 @@
+header
+{
+    background-color: rgb(217, 224, 90);
+    text-align: center;
+}
+footer
+{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+h1
+{
+    color: rgb(52, 177, 14);
+    font-family: monospace;
+    text-align: center;
+    background-color: rgb(5, 68, 68);
+}
+p
+{
+    color: blue;
+}
+.grillacontenedora4partes
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25% ;
+}
+.grillacontenedora3partes
+{
+    display: grid;
+    grid-template-columns: 35% 30% 35%;
+}
+div.celeste
+{
+background-color: rgb(12, 140, 179);
+}
+div.verde
+{
+background-color: rgb(41, 168, 6);
+}
+div.amarillo
+{
+background-color: rgb(183, 216, 20);
+}
+div.rosado
+{
+background-color: rgb(157, 12, 179);
+}
+h2
+{
+    color: aqua;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2:hover
+{
+    color: rgb(205, 15, 94);
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
